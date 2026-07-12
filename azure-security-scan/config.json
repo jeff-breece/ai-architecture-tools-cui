@@ -1,0 +1,116 @@
+{
+  "resource_groups": [
+    {
+      "name": "TMZ-EUS2-Dev-Analytics-Arrowstream-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Dev-Analytics-Arrowstream-RG-MRG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-DEV-ANALYTICS-PEOPLEANALYTICS-RG",
+      "subscription_id": "117e68a3-9920-45f8-a353-0ebe863be7f9"
+    },
+    {
+      "name": "TMZ-EUS2-DEV-CashApp-RG",
+      "subscription_id": "117e68a3-9920-45f8-a353-0ebe863be7f9"
+    },
+    {
+      "name": "TMZ-EUS2-Dev-MasterData-RG",
+      "subscription_id": "b0aa59aa-ff58-4d6f-a9c0-30b78d6030a5"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-APAutoDev-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-APAutoProd-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-APAutoTest-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-Arrowstream-MRG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-Arrowstream-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-AzureIR-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-DataHubDev-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-DataHubProd-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-DataHubTest-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-EDSDev-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-EDSProd-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-EDSTest-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-FabricRI-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-InfoPort-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-Infra-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-LabDev-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-OEEProd-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-PeopleAnalytics-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-PLMDev-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-PLMProd-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-PLMTest-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-PowerOnTest-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    },
+    {
+      "name": "TMZ-EUS2-Prod-Analytics-VNET-RG",
+      "subscription_id": "c52dba1a-a154-4686-854a-eb63f28e5774"
+    }
+  ]
+}
