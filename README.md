@@ -10,6 +10,8 @@
 A collection of 15 terminal utilities for AI-assisted development workflows,
 built with a consistent retro terminal aesthetic and [Gum](https://github.com/charmbracelet/gum) TUI.
 
+> [Companion Blog Post](https://jeff-breece.github.io/2026/07/11/cyberdeck-architecht-console.html)
+
 ## Quick Start
 
 ```bash
